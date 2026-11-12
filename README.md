@@ -55,7 +55,7 @@ This repository is continuously updated as I solve more problems and learn new c
 ## 🔗 Profiles
 
 - **GitHub:** [nandeeshsmoolya](https://github.com/nandeeshsmoolya)
-- **LeetCode:** [My LeetCode Profile](https://leetcode.com/)
+- **LeetCode:** [My LeetCode Profile]([https://leetcode.com/](https://leetcode.com/u/Nandeeshsmoolya/)
 - **LinkedIn:** [My LinkedIN Profile](https://www.linkedin.com/in/nandeesh-s-moolya-b20341384/)
 
 ---
